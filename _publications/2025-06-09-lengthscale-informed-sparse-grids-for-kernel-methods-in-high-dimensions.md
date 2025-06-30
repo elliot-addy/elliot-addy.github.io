@@ -3,7 +3,7 @@ title: "Lengthscale-informed sparse grids for kernel methods in high dimensions"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-06-09-lengthscale-informed-sparse-grids-for-kernel-methods-in-high-dimensions
-excerpt: 'This paper introduces lenthscale-informed sparse grids for kernel interpolation'
+excerpt: 'This paper introduces lenthscale-informed sparse grids for kernel interpolation. In particular, using only anisotropy assumptions on the lengthscale parameter in Matern kernels, we are able to achieve dimension-independent covergence rates.'
 date: 2025-06-09
 venue: 'arXiv'
 slidesurl: 'http://elliot-addy.github.io/files/lengthscale-informed-sparse-grids-Strathclyde.pdf'
