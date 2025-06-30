@@ -7,3 +7,4 @@ redirect_from:
   - /about.html
 ---
 
+![Edinburgh from Arthur's Seat 27/09/21](../assets/images/Edinburgh.JPG)
