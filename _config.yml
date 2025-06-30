@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default"
-title                    : "Elliot Addy"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Elliot Addy"
 description              : &description "PhD student in Applied and Computational Mathematics in the Maxwell Institute for Mathematical Sciences, based at the University of Edinburgh. "
