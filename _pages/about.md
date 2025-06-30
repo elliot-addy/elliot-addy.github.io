@@ -13,7 +13,8 @@ redirect_from:
 
 ## Research Interests
 
-• Numerical Analysis  
-• Kernel Methods and Gaussian Processes  
-• Surrogate Modelling
-• Bayesian Inverse Problems
+• Numerical Analysis 
+• Kernel Methods 
+• Gaussian Processes 
+• Surrogate Modelling 
+• Bayesian Inverse Problems 
