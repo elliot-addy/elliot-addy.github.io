@@ -22,7 +22,7 @@ repository               : "elliot-addy/elliot-addy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "elliot-addy.png"
   name             : "Elliot Addy"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Applied and Computational Mathematics in the Maxwell Institute for Mathematical Sciences"
