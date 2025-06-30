@@ -1,8 +1,9 @@
 ---
 permalink: /
 title: "Hello, I'm Elliot Addy"
-layout: home
-author_profile: true
+layout: single
+sidebar:
+nav: "docs"
 redirect_from: 
   - /about/
   - /about.html
