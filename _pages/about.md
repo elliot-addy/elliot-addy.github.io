@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: ""
 layout: single
 sidebar:
 nav: "docs"
