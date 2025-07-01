@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Elliot Addy"
+title: ""
 layout: single
 sidebar:
 nav: "docs"
